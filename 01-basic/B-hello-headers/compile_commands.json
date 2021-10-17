@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/seadragnol/Code/cmake-examples/01-basic/B-hello-headers/build",
+  "command": "/usr/bin/c++  -I/home/seadragnol/Code/cmake-examples/01-basic/B-hello-headers/include  -o CMakeFiles/hello_headers.dir/src/Hello.cpp.o -c /home/seadragnol/Code/cmake-examples/01-basic/B-hello-headers/src/Hello.cpp",
+  "file": "/home/seadragnol/Code/cmake-examples/01-basic/B-hello-headers/src/Hello.cpp"
+},
+{
+  "directory": "/home/seadragnol/Code/cmake-examples/01-basic/B-hello-headers/build",
+  "command": "/usr/bin/c++  -I/home/seadragnol/Code/cmake-examples/01-basic/B-hello-headers/include  -o CMakeFiles/hello_headers.dir/src/main.cpp.o -c /home/seadragnol/Code/cmake-examples/01-basic/B-hello-headers/src/main.cpp",
+  "file": "/home/seadragnol/Code/cmake-examples/01-basic/B-hello-headers/src/main.cpp"
+}
+]

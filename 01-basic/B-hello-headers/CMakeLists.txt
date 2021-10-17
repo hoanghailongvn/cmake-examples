@@ -3,14 +3,16 @@
 # $ cmake --version
 cmake_minimum_required(VERSION 3.5)
 
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 # Set the project name
 project (hello_headers)
 
 # Create a sources variable with a link to all cpp files to compile
-set(SOURCES
-    src/Hello.cpp
-    src/main.cpp
-)
+# set(SOURCES
+#     src/Hello.cpp
+#     src/main.cpp
+# )
+file(GLOB SOURCES "src/*.cpp")
 
 # Add an executable with the above sources
 add_executable(hello_headers ${SOURCES})
