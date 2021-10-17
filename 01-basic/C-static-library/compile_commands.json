@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/seadragnol/Code/cmake-examples/01-basic/C-static-library/build",
+  "command": "/usr/bin/c++  -I/home/seadragnol/Code/cmake-examples/01-basic/C-static-library/include  -o CMakeFiles/hello_library.dir/src/Hello.cpp.o -c /home/seadragnol/Code/cmake-examples/01-basic/C-static-library/src/Hello.cpp",
+  "file": "/home/seadragnol/Code/cmake-examples/01-basic/C-static-library/src/Hello.cpp"
+},
+{
+  "directory": "/home/seadragnol/Code/cmake-examples/01-basic/C-static-library/build",
+  "command": "/usr/bin/c++  -I/home/seadragnol/Code/cmake-examples/01-basic/C-static-library/include  -o CMakeFiles/hello_binary.dir/src/main.cpp.o -c /home/seadragnol/Code/cmake-examples/01-basic/C-static-library/src/main.cpp",
+  "file": "/home/seadragnol/Code/cmake-examples/01-basic/C-static-library/src/main.cpp"
+}
+]
